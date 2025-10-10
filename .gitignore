@@ -7,5 +7,5 @@
 *.elc
 *.html
 dist
-.emacs-ci
+.elci
 coverage
